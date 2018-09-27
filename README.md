@@ -36,8 +36,8 @@ The goals / steps of this project are the following:
 ---
 
 You are reading my Writeup/README. 
-Here is a link to my [project code](https://github.com/OctopusNO1/Classify-TrafficSign/blob/master/Traffic_Sign_Classifier.ipynb)
-Here is a link to my [report.html](https://github.com/OctopusNO1/Classify-TrafficSign/blob/master/Traffic_Sign_Classifier.html)
+Here is a link to my [project code](https://github.com/OctopusNO1/Classify-Traffic-Sign/blob/master/Traffic_Sign_Classifier.ipynb)
+Here is a link to my [report.html](https://github.com/OctopusNO1/Classify-Traffic-Sign/blob/master/Traffic_Sign_Classifier.html)
 
 ### Data Set Summary & Exploration
 
