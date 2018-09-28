@@ -100,8 +100,10 @@ To train the model, I used
 | epochs      			| 40											|
 | batch size			| 128											|
 | dropout probabilities	| 50%											|
-| learning rate			| 0.001, 0.0001									|
+| learning rate			| 0.001        									|
 | optimizer     		| Adam      	      						    |
+
+Adam is adaptive optimizer.
 
 #### 4. results and discuss 
 
